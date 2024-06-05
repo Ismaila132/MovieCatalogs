@@ -1,0 +1,1 @@
+C:\Projmaui8\part4-exercise-start\part4-exercise1\MovieCatalog.csproj;x64

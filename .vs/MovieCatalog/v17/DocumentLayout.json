@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projmaui8\\part4-exercise-start\\part4-exercise1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E94691FA-1B59-451F-929C-71D080FAF217}|MovieCatalog.csproj|c:\\projmaui8\\part4-exercise-start\\part4-exercise1\\views\\moviedetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94691FA-1B59-451F-929C-71D080FAF217}|MovieCatalog.csproj|solutionrelative:views\\moviedetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94691FA-1B59-451F-929C-71D080FAF217}|MovieCatalog.csproj|c:\\projmaui8\\part4-exercise-start\\part4-exercise1\\views\\movieslistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94691FA-1B59-451F-929C-71D080FAF217}|MovieCatalog.csproj|solutionrelative:views\\movieslistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94691FA-1B59-451F-929C-71D080FAF217}|MovieCatalog.csproj|c:\\projmaui8\\part4-exercise-start\\part4-exercise1\\views\\movieslistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E94691FA-1B59-451F-929C-71D080FAF217}|MovieCatalog.csproj|solutionrelative:views\\movieslistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E94691FA-1B59-451F-929C-71D080FAF217}|MovieCatalog.csproj|c:\\projmaui8\\part4-exercise-start\\part4-exercise1\\viewmodels\\movielistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E94691FA-1B59-451F-929C-71D080FAF217}|MovieCatalog.csproj|solutionrelative:viewmodels\\movielistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieDetailPage.xaml.cs",
+              "DocumentMoniker": "C:\\Projmaui8\\part4-exercise-start\\part4-exercise1\\Views\\MovieDetailPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\MovieDetailPage.xaml.cs",
+              "ToolTip": "C:\\Projmaui8\\part4-exercise-start\\part4-exercise1\\Views\\MovieDetailPage.xaml.cs",
+              "RelativeToolTip": "Views\\MovieDetailPage.xaml.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAwwAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T21:15:32.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoviesListPage.xaml.cs",
+              "DocumentMoniker": "C:\\Projmaui8\\part4-exercise-start\\part4-exercise1\\Views\\MoviesListPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\MoviesListPage.xaml.cs",
+              "ToolTip": "C:\\Projmaui8\\part4-exercise-start\\part4-exercise1\\Views\\MoviesListPage.xaml.cs",
+              "RelativeToolTip": "Views\\MoviesListPage.xaml.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAQwAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T21:07:33.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MoviesListPage.xaml",
+              "DocumentMoniker": "C:\\Projmaui8\\part4-exercise-start\\part4-exercise1\\Views\\MoviesListPage.xaml",
+              "RelativeDocumentMoniker": "Views\\MoviesListPage.xaml",
+              "ToolTip": "C:\\Projmaui8\\part4-exercise-start\\part4-exercise1\\Views\\MoviesListPage.xaml",
+              "RelativeToolTip": "Views\\MoviesListPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-03T21:04:10.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieListViewModel.cs",
+              "DocumentMoniker": "C:\\Projmaui8\\part4-exercise-start\\part4-exercise1\\ViewModels\\MovieListViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MovieListViewModel.cs",
+              "ToolTip": "C:\\Projmaui8\\part4-exercise-start\\part4-exercise1\\ViewModels\\MovieListViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MovieListViewModel.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:59:11.924Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
